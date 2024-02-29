@@ -2,114 +2,52 @@
   "movies": [
     {
       "id": "1",
-      "title": "title",
-      "description": "description",
-      "year": 2017,
-      "country": "USA",
-      "rating": 5,
+      "title": "Big Buck Bunny",
+      "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+      "year": 2010,
+      "country": "Canada",
+      "rating": 10,
       "genres": [
-        "drama"
+        "Action"
       ],
       "actors": [
-        "tom"
+        "Bunny"
       ],
       "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
       "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "2",
-      "title": "title",
-      "description": "description",
-      "year": 2010,
+      "title": "Big Buck Bunny",
+      "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+      "year": 2005,
       "country": "UK",
-      "rating": 5,
+      "rating": 8,
       "genres": [
-        "drama"
+        "Comedy"
       ],
       "actors": [
-        "tom"
+        "Bunny"
       ],
       "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
       "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "3",
-      "title": "title",
-      "description": "description",
-      "year": 2007,
-      "country": "Canada",
-      "rating": 4,
+      "title": "Big Buck Bunny",
+      "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+      "year": 2017,
+      "country": "USA",
+      "rating": 5,
       "genres": [
-        "melodrama"
+        "Animation"
       ],
       "actors": [
-        "adam"
+        "Bunny"
       ],
       "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
       "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-      "id": "1709224740935",
-      "title": "test",
-      "description": "fdsfhkjdhklg",
-      "year": "9",
-      "country": "dsgsdg",
-      "rating": "2",
-      "genres": ["Action"],
-      "actors": [],
-      "imageUrl": "dgfds",
-      "videoUrl": "gdsgd"
-    },
-    {
-      "id": "1709225889169",
-      "title": "",
-      "description": "",
-      "year": 0,
-      "country": "",
-      "rating": 0,
-      "genres": [
-        "hh",
-        " gygy"
-      ],
-      "actors": [],
-      "imageUrl": "",
-      "videoUrl": ""
-    },
-    {
-      "id": "1709225970620",
-      "title": "erferf",
-      "description": "ferfre",
-      "year": "3",
-      "country": "ferg",
-      "rating": "4",
-      "genres": [
-        "gregv"
-      ],
-      "actors": [
-        "gvfrvr"
-      ],
-      "imageUrl": "grefv",
-      "videoUrl": "vefvgr"
-    },
-    {
-      "id": "1709225984069",
-      "title": "gregr",
-      "description": "grdg",
-      "year": "4",
-      "country": "",
-      "rating": "4",
-      "genres": [
-        "greg",
-        "gregre",
-        "lgge"
-      ],
-      "actors": [
-        "gdfgreg",
-        " gretger",
-        " greg"
-      ],
-      "imageUrl": "",
-      "videoUrl": ""
     }
+    
   ]
 }

@@ -7,8 +7,7 @@ import { useSelector } from "react-redux";
 import { movieSelector } from "../../store/movies/movies-selector";
 
 const VideoDetails: React.FC = () => {
-  //   const { id } = useParams<{ id: string }>();
-  const id = "1";
+  const { id } = useParams<{ id: string }>();
   const movie = useSelector(movieSelector);
   const dispatch = useDispatch();
 

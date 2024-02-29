@@ -67,15 +67,19 @@ const moviesSlice = createSlice({
     },
     sortMoviesByYearAsc: state => {
       state.filteredMovies.sort((a, b) => a.year - b.year);
+      state.movies.sort((a, b) => a.year - b.year);
     },
     sortMoviesByYearDesc: state => {
       state.filteredMovies.sort((a, b) => b.year - a.year);
+      state.movies.sort((a, b) => b.year - a.year);
     },
     sortMoviesByRatingAsc: state => {
       state.filteredMovies.sort((a, b) => a.rating - b.rating);
+      state.movies.sort((a, b) => a.rating - b.rating);
     },
     sortMoviesByRatingDesc: state => {
       state.filteredMovies.sort((a, b) => b.rating - a.rating);
+      state.movies.sort((a, b) => b.rating - a.rating);
     }
   },
   extraReducers: (builder) => {

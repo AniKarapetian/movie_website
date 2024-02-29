@@ -1,16 +1,16 @@
 import React from "react";
 import { Card, Button } from "react-bootstrap";
 import { MovieDTO } from "./types";
-// import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 interface VideoCardProps {
   movie: MovieDTO;
 }
 
 const VideoCard: React.FC<VideoCardProps> = ({ movie }) => {
-  // const history = useHistory();
+  const navigate = useNavigate();
   const openDetails = () => {
-    // history.push(`/movies/${movie.id}`);
+    navigate(`/movies/${movie.id}`, { replace: true });
   };
   return (
     <Card style={{ width: "18rem", margin: "5px" }}>
