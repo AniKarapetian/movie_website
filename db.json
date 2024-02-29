@@ -1,0 +1,115 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "title",
+      "description": "description",
+      "year": 2017,
+      "country": "USA",
+      "rating": 5,
+      "genres": [
+        "drama"
+      ],
+      "actors": [
+        "tom"
+      ],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "2",
+      "title": "title",
+      "description": "description",
+      "year": 2010,
+      "country": "UK",
+      "rating": 5,
+      "genres": [
+        "drama"
+      ],
+      "actors": [
+        "tom"
+      ],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "3",
+      "title": "title",
+      "description": "description",
+      "year": 2007,
+      "country": "Canada",
+      "rating": 4,
+      "genres": [
+        "melodrama"
+      ],
+      "actors": [
+        "adam"
+      ],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "1709224740935",
+      "title": "test",
+      "description": "fdsfhkjdhklg",
+      "year": "9",
+      "country": "dsgsdg",
+      "rating": "2",
+      "genres": ["Action"],
+      "actors": [],
+      "imageUrl": "dgfds",
+      "videoUrl": "gdsgd"
+    },
+    {
+      "id": "1709225889169",
+      "title": "",
+      "description": "",
+      "year": 0,
+      "country": "",
+      "rating": 0,
+      "genres": [
+        "hh",
+        " gygy"
+      ],
+      "actors": [],
+      "imageUrl": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "1709225970620",
+      "title": "erferf",
+      "description": "ferfre",
+      "year": "3",
+      "country": "ferg",
+      "rating": "4",
+      "genres": [
+        "gregv"
+      ],
+      "actors": [
+        "gvfrvr"
+      ],
+      "imageUrl": "grefv",
+      "videoUrl": "vefvgr"
+    },
+    {
+      "id": "1709225984069",
+      "title": "gregr",
+      "description": "grdg",
+      "year": "4",
+      "country": "",
+      "rating": "4",
+      "genres": [
+        "greg",
+        "gregre",
+        "lgge"
+      ],
+      "actors": [
+        "gdfgreg",
+        " gretger",
+        " greg"
+      ],
+      "imageUrl": "",
+      "videoUrl": ""
+    }
+  ]
+}
